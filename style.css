@@ -1,0 +1,122 @@
+
+
+* {
+    font-family: 'Poppins', 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+ height: 100%;
+ width: 100%;}
+
+
+
+
+.pockemon_card{
+ position: relative;
+ top:40px;
+ left:110px;
+ width:1300px;
+ height:700px;
+ border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.18); 
+  background: #ffc908;
+}
+
+.poc_logo{
+position: relative;
+top:10px;
+left:20px;
+}
+
+.menu{
+    position:absolute;
+    top:20px;
+    right: 20px;
+    height: 6%;
+}
+.card{
+    
+    position: relative;
+    top: 50px;
+   left: 20px;
+   
+    height: 500px;
+    width: 550px;
+   
+}
+
+.info_box{
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+
+.pickachu_img{
+    position: absolute;
+   top:0px;
+   left: 550px;
+    
+    height: 500px;
+    width: 500px;
+}
+
+.category{
+     margin-bottom: 0px;
+     letter-spacing: 30%;
+   
+}
+.name{
+    font-size: 90px;
+    font-weight: 800;
+    font-size: 80px;
+    letter-spacing: -1px; /* To get that tight, clean look */
+    margin-top: 15px;
+}
+
+.description{
+    margin-top: 15px;
+    line-height: 25px;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 500;
+    color: #343434;
+}
+ 
+.counter{
+    margin-top: 20px;
+    line-height: 40px;
+    font-weight: 600;
+     margin-top: 15px;
+}
+
+
+
+.selector{
+    position: relative;
+    left:1350px;
+    bottom: 200px;
+}
+
+ .dot1{
+ position: absolute;
+ 
+ bottom: 120px;
+
+}
+.dot2{
+ position: absolute;
+ 
+ bottom: 90px;
+}
+.dot3{
+ position: absolute;
+
+ bottom: 60px;
+}
+.dot4{
+ position: absolute;
+ bottom: 30px;
+} 
