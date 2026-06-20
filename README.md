@@ -6,7 +6,7 @@ A responsive Pokémon-themed landing page built using **HTML5** and **CSS3** as 
 
 ## 📸 Preview
 
-![Project Preview](./preview.png)
+![Project Preview](/preview.png)
 
 ## 🛠️ Tech Stack
 
